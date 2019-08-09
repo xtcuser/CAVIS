@@ -11,7 +11,11 @@ from selenium import webdriver
 from gtts import gTTS
 
 pip install gTTS
+
 pip install Pyaudio
+
 pip install SpeechRecognition
+
 pip install playsound
+
 pip install selenium
